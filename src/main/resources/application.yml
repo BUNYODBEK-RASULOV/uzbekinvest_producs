@@ -1,0 +1,36 @@
+spring:
+  datasource:
+    username: Osago
+    password: rtf
+    url: jdbc:oracle:thin:@10.10.10.28:1521:dbunic
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+#swagger uchun
+springdoc:
+#  api-docs:
+#    path: /api-docs
+  swagger-ui:
+    disable-swagger-default-url: true
+    tags-sorter: alpha
+    operations-sorter: alpha
+    doc-expansion: none
+
+
+#tokenni amal qilish muddati (sutkalarda)
+token:
+  expiration:
+    time: 720
+  #security key token
+  security:
+    key: sdfgsdf12df
+
+#serverdagi errorlarni korsatishi uchun
+server:
+
+  error:
+    include-binding-errors: always
+  port: 8080

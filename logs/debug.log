@@ -1,0 +1,117 @@
+2023-06-05 22:49:52 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 5208 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-05 22:49:52 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-05 22:49:52 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-05 22:50:02 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-05 22:50:03 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 12.097 seconds (process running for 14.057)                
+2023-06-06 14:06:42 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 15432 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 14:06:42 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 14:06:42 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 14:06:55 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 14:06:56 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 14.302 seconds (process running for 15.372)                
+2023-06-06 16:11:07 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 12084 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:11:07 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:11:07 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:11:11 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 14784 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:11:11 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:11:11 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:11:21 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:11:22 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 15.865 seconds (process running for 16.607)                
+2023-06-06 16:11:24 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:12:20 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 16096 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:12:20 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:12:20 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:12:30 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:12:32 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 11.775 seconds (process running for 12.766)                
+2023-06-06 16:13:06 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 416 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:13:06 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:13:06 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:13:09 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 2436 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:13:09 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:13:09 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:13:23 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:13:24 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 17.935 seconds (process running for 18.805)                
+2023-06-06 16:13:25 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:13:38 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 13104 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:13:38 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:13:38 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:13:49 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:13:51 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 13.11 seconds (process running for 14.204)                 
+2023-06-06 16:19:58 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 14220 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:19:58 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:19:58 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:20:08 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:20:09 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 11.342 seconds (process running for 12.135)                
+2023-06-06 16:20:14 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 13204 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 16:20:14 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 16:20:14 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 16:20:25 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 16:20:26 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 12.345 seconds (process running for 13.106)                
+2023-06-06 18:26:05 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 9792 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 18:26:05 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 18:26:05 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 18:26:15 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 18:26:17 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 12.007 seconds (process running for 12.79)                 
+2023-06-06 18:26:40 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 4108 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 18:26:40 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 18:26:40 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 18:26:51 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 18:26:52 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 11.742 seconds (process running for 12.503)                
+2023-06-06 18:30:17 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 11348 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-06 18:30:17 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-06 18:30:17 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-06 18:30:27 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-06 18:30:28 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 11.064 seconds (process running for 11.929)                
+2023-06-07 09:27:53 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 17016 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-07 09:27:53 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-07 09:27:53 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-07 09:28:14 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 12208 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-07 09:28:14 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-07 09:28:14 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-07 09:29:14 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 13244 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-07 09:29:14 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-07 09:29:14 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-07 09:29:25 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-07 09:29:29 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 15.682 seconds (process running for 16.507)                
+2023-06-07 09:31:37 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 11580 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-07 09:31:37 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-07 09:31:37 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-07 09:31:48 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-07 09:31:50 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 12.894 seconds (process running for 14.292)                
+2023-06-07 11:11:15 [main] INFO  c.e.u.UzbekinvestProducsApplicationTests - Starting UzbekinvestProducsApplicationTests using Java 17.0.5 with PID 9184 (started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-07 11:11:15 [main] DEBUG c.e.u.UzbekinvestProducsApplicationTests - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-07 11:11:15 [main] INFO  c.e.u.UzbekinvestProducsApplicationTests - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-07 11:11:28 [main] INFO  c.e.u.UzbekinvestProducsApplicationTests - Started UzbekinvestProducsApplicationTests in 12.913 seconds (process running for 14.579)           
+2023-06-07 11:17:23 [main] INFO  c.e.u.UzbekinvestProducsApplicationTests - Starting UzbekinvestProducsApplicationTests using Java 17.0.5 with PID 10232 (started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-07 11:17:23 [main] DEBUG c.e.u.UzbekinvestProducsApplicationTests - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-07 11:17:23 [main] INFO  c.e.u.UzbekinvestProducsApplicationTests - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-07 11:17:37 [main] INFO  c.e.u.UzbekinvestProducsApplicationTests - Started UzbekinvestProducsApplicationTests in 14.044 seconds (process running for 15.645)           
+2023-06-07 11:17:54 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 13624 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-07 11:17:54 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-07 11:17:54 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-07 11:18:08 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-07 11:18:09 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 15.865 seconds (process running for 16.47)                 
+2023-06-08 09:55:52 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 16256 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-08 09:55:52 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-08 09:55:52 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-08 09:56:03 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-08 09:56:04 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 12.732 seconds (process running for 17.117)                
+2023-06-08 09:58:50 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 936 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-08 09:58:50 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-08 09:58:50 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-08 09:59:02 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-08 09:59:03 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 14.222 seconds (process running for 16.017)                
+2023-06-09 10:14:25 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 12048 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-09 10:14:25 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-09 10:14:25 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-09 10:14:42 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-09 10:14:44 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 19.965 seconds (process running for 22.302)                
+2023-06-09 10:15:07 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 7252 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-09 10:15:07 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-09 10:15:07 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-09 10:15:25 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-09 10:15:30 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 22.966 seconds (process running for 24.773)                
+2023-06-09 10:20:09 [main] INFO  c.e.u.UzbekinvestProducsApplication - Starting UzbekinvestProducsApplication using Java 17.0.5 with PID 10496 (C:\Users\User\IdeaProjects\uzbekinvest_producs\target\classes started by User in C:\Users\User\IdeaProjects\uzbekinvest_producs)
+2023-06-09 10:20:09 [main] DEBUG c.e.u.UzbekinvestProducsApplication - Running with Spring Boot v3.1.0, Spring v6.0.9                                                      
+2023-06-09 10:20:09 [main] INFO  c.e.u.UzbekinvestProducsApplication - No active profile set, falling back to 1 default profile: "default"                                 
+2023-06-09 10:20:26 [main] DEBUG c.e.u.commons.security.JwtFilter - Filter 'jwtFilter' configured for use                                                               
+2023-06-09 10:20:28 [main] INFO  c.e.u.UzbekinvestProducsApplication - Started UzbekinvestProducsApplication in 20.035 seconds (process running for 20.944)                
